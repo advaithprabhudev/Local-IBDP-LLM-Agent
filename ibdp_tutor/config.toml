@@ -1,0 +1,14 @@
+[ollama]
+generation_model = "glm4:9b"
+embed_model = "nomic-embed-text"
+
+[chunking]
+size = 512
+overlap = 64
+
+[retrieval]
+top_k = 8
+
+[paths]
+sources = "sources"
+data = "data"
