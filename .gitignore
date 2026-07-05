@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.impeccable/
+.superpowers/
+*.egg-info/
+.coverage
+.obsidian/
+
+# nested-repo backups kept locally only, not for GitHub
+.git-nested-backup/
+
+# personal/generated study data, not source code
+ibdp_tutor/data/
+ibdp_tutor/sources/
+data/
