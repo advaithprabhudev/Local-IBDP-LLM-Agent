@@ -1,4 +1,4 @@
-"""Per-subject progress analytics. Pure functions operating on plain card/review rows, no I/O."""
+
 
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
