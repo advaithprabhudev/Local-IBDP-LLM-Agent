@@ -59,3 +59,5 @@ uv run ibstudy
   personal study material and the ChromaDB/SQLite state.
 - If Ollama isn't running or a model isn't pulled, each tool fails with a
   single actionable message rather than crashing.
+- Still working on improving the model, and responses
+  
